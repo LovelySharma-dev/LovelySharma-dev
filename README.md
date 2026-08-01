@@ -70,8 +70,7 @@
 
 <div align="center">
 
-<a href="https://github.com/LovelySharma-dev/NutriInsightX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=NutriInsightX&theme=tokyonight&hide_border=true"/>
+
 </a>
 <a href="https://github.com/LovelySharma-dev/Ledgerly-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=Ledgerly-AI&theme=tokyonight&hide_border=true"/>
@@ -83,6 +82,9 @@
 <a href="https://github.com/LovelySharma-dev/Pulse">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=Pulse&theme=tokyonight&hide_border=true"/>
 </a>
+
+<a href="https://github.com/LovelySharma-dev/NutriInsightX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=NutriInsightX&theme=tokyonight&hide_border=true"/>
 
 <a href="https://github.com/LovelySharma-dev/community-issue-reporting">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=community-issue-reporting&theme=tokyonight&hide_border=true"/>
@@ -133,6 +135,8 @@
 
 - 🎉 **GSSoC'26 (GirlScript Summer of Code) Contributor**
 - 🐞 Reported & helped resolve a bug in [**Travel-Plans-**](https://github.com/hitesh-kumar123/Travel-Plans-) — [Issue #1218: Expense date validation](https://github.com/hitesh-kumar123/Travel-Plans-/issues/1218), fixed via [PR #1242](https://github.com/hitesh-kumar123/Travel-Plans-/pull/1242)
+- Reported 10+ Bugs
+- Submitted Multiple PRs
 
 <br/>
 
@@ -140,14 +144,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LovelySharma-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=LovelySharma-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/> -->
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LovelySharma-dev&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovelySharma-dev&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovelySharma-dev&layout=compact&theme=tokyonight&hide_border=true" width="45%"/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LovelySharma-dev&theme=tokyo-night&hide_border=true" width="90%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=LovelySharma-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=LovelySharma-dev&theme=tokyonight&no-frame=true&row=1&column=6"/> -->
+
 
 </div>
 
