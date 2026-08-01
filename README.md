@@ -31,11 +31,14 @@
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 **Frameworks & Libraries**
 
@@ -47,6 +50,7 @@
 **Databases & Cloud**
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 
@@ -57,12 +61,14 @@
 
 **Auth & Tools**
 
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
+**Deployment**
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </div>
 </div>
+
+ <br/>
 
 <br/>
 
@@ -117,13 +123,13 @@
 
 ## 💼 Experience
 
-**SkillsBuild — AI Strategy & Business Intelligence Intern** · *Virtual · Mar 2026 – Apr 2026*
-- Completed a 6-week industry-aligned internship in Generative AI, Agentic AI, automation & workflows
-- Hands-on with Python, Google Colab & Relay for building AI workflows and automations
-- Built real-world AI projects aligned with the **UN Sustainable Development Goals**
 
-**6-Week Virtual IBM SkillsBuild Academic Internship** · *Gen AI & Cloud Computing (with AICTE) · 22 Jun – 30 Jul 2026*
+**BharatCares Internship** · *Gen AI & Cloud Computing (with AICTE) · 22 Jun – 30 Jul 2026*
 - Industry-aligned program covering AI, Prompt Engineering, AI App Development, Cloud Architecture & Deployment
+
+**AI Strategy & Business Intelligence Intern** · *Virtual · Mar 2026 – Apr 2026*
+- Completed a 6-week internship in Generative AI, Agentic AI, automation & workflows
+- Hands-on with Python, Google Colab & Relay for building AI workflows and automations
 
 **Microsoft Learn Student Club — Web Developer, On Campus**
 - Organized & judged campus hackathons
