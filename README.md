@@ -6,9 +6,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lovely-sharma-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="https://github.com/LovelySharma-dev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -22,7 +19,6 @@
 - 🎓 B.Tech CSE Student, based in Delhi, India
 - 💡 Passionate about **Full Stack Development** and **Generative / Agentic AI**
 - 🧠 Building AI-powered tools — from food-label analyzers to blockchain AI marketplaces
-- 🌱 Currently exploring **IBM Watsonx, IBM Granite, and Agentic AI workflows**
 - 👥 Web Developer @ **Microsoft Learn Student Club** — mentoring juniors & organizing hackathons
 - 🏆 Hackathon Winner — **OpenAIVerse: Decentralized AI Collaboration Platform**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lovely-sharma-dev/)
@@ -56,8 +52,6 @@
 
 **AI / GenAI Tools**
 
-<img src="https://img.shields.io/badge/IBM_Watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM_Granite-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
@@ -123,7 +117,7 @@
 
 **SkillsBuild — AI Strategy & Business Intelligence Intern** · *Virtual · Mar 2026 – Apr 2026*
 - Completed a 6-week industry-aligned internship in Generative AI, Agentic AI, automation & workflows
-- Hands-on with IBM Watsonx, IBM Granite, Python, Google Colab & Relay
+- Hands-on with Python, Google Colab & Relay for building AI workflows and automations
 - Built real-world AI projects aligned with the **UN Sustainable Development Goals**
 
 **6-Week Virtual IBM SkillsBuild Academic Internship** · *Gen AI & Cloud Computing (with AICTE) · 22 Jun – 30 Jul 2026*
@@ -137,8 +131,8 @@
 
 ## 🌱 Open Source
 
-> *Add your GSoC organization, project title, and year here once confirmed —*
-> `e.g. GSoC 2026 @ <Org Name> — <Project Title>`
+- 🎉 **GSSoC'26 (GirlScript Summer of Code) Contributor**
+- 🐞 Reported & helped resolve a bug in [**Travel-Plans-**](https://github.com/hitesh-kumar123/Travel-Plans-) — [Issue #1218: Expense date validation](https://github.com/hitesh-kumar123/Travel-Plans-/issues/1218), fixed via [PR #1242](https://github.com/hitesh-kumar123/Travel-Plans-/pull/1242)
 
 <br/>
 
@@ -164,6 +158,23 @@
 ![Snake animation](https://raw.githubusercontent.com/LovelySharma-dev/LovelySharma-dev/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<br/>
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lovely-sharma-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:lovelysharmacji@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
