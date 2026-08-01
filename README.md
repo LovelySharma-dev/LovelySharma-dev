@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Lovely%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20|%20Full%20Stack%20&%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+GenAI+Enthusiast+%F0%9F%A4%96;MERN+Stack+%2B+Python+%2B+TypeScript;Always+shipping+something+new+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=2575fc&vCenter=true&size=22&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+GenAI+Enthusiast+%F0%9F%A4%96;MERN+Stack+%2B+Typescript+%2B+Python;Always+shipping+something+new+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=2575fc&vCenter=true&size=22&pause=1200"/>
 
 <br/>
 
@@ -73,43 +73,16 @@
 <br/>
 
 ## 📌 Pinned Projects
-
-<div align="center">
-
-
-</a>
-<a href="https://github.com/LovelySharma-dev/Ledgerly-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=Ledgerly-AI&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/LovelySharma-dev/LuvUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=LuvUI&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/LovelySharma-dev/Pulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=Pulse&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/LovelySharma-dev/NutriInsightX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=NutriInsightX&theme=tokyonight&hide_border=true"/>
-
-<a href="https://github.com/LovelySharma-dev/community-issue-reporting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=community-issue-reporting&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/LovelySharma-dev/OpenAIChain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LovelySharma-dev&repo=OpenAIChain&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
+ 
 | Project | Description |
 |---|---|
-| 🥗 [**NutriInsightX**](https://github.com/LovelySharma-dev/NutriInsightX) | AI-powered food label analyzer — OCR, ingredient parsing, allergen detection, additive risk & health scoring |
 | 🧾 [**Ledgerly-AI**](https://github.com/LovelySharma-dev/Ledgerly-AI) | MERN invoice management platform with Clerk Auth + Google Gemini AI for smart invoice generation |
-| 🎨 [**LuvUI**](https://github.com/LovelySharma-dev/LuvUI) | AI-powered React UI library — install production-ready components, generate custom ones with AI |
 | ⚡ [**Pulse**](https://github.com/LovelySharma-dev/Pulse) | Real-time messaging app — React, Node.js, Socket.io, MongoDB, JWT, Cloudinary |
+| 🥗 [**NutriInsightX**](https://github.com/LovelySharma-dev/NutriInsightX) | AI-powered food label analyzer — OCR, ingredient parsing, allergen detection, additive risk & health scoring |
+| 🎨 [**LuvUI**](https://github.com/LovelySharma-dev/LuvUI) | AI-powered React UI library — install production-ready components, generate custom ones with AI |
 | 🗺️ [**community-issue-reporting**](https://github.com/LovelySharma-dev/community-issue-reporting) | Community issue reporting platform with map-based visualization, built on Google tech |
 | 🔗 [**OpenAIChain**](https://github.com/LovelySharma-dev/OpenAIChain) | AI model marketplace on blockchain — federated learning & tokenized incentives for open-source AI |
-
+ 
 <br/>
 
 ## 🏆 Achievements
