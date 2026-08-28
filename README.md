@@ -3,7 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Lovely%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20|%20Full%20Stack%20&%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+GenAI+Enthusiast+%F0%9F%A4%96;MERN+Stack+%2B+Typescript+%2B+Python;Always+shipping+something+new+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=2575fc&vCenter=true&size=22&pause=1200"/>
+💼 Work Profile
 
+<div align="center">
+
+<a href="https://github.com/lovely-intern"> <img src="https://img.shields.io/badge/Work%20GitHub-lovely--intern-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</div>
+
+<br/>
+
+My work profile contains professional projects, internship work, and other development contributions.
 <br/>
 
 <a href="https://github.com/LovelySharma-dev">
