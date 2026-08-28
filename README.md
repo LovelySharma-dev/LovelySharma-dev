@@ -158,18 +158,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LovelySharma-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LovelySharma-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LovelySharma-dev&theme=tokyonight&hide_border=true" width="48%"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovelySharma-dev&layout=compact&theme=tokyonight&hide_border=true" width="45%"/> -->
+<br/><br/>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=LovelySharma-dev&theme=tokyo-night&hide_border=true" width="90%"/> -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=LovelySharma-dev&theme=tokyonight&no-frame=true&row=1&column=6"/> 
-
+<img src="https://github-profile-trophy.vercel.app/?username=LovelySharma-dev&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
+
 
 <br/>
 
