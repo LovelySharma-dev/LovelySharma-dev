@@ -8,19 +8,7 @@
 
 </div>
 
-## 💼 Work Profile
-
-<div align="center">
-
-<a href="https://github.com/lovely-intern">
-  <img src="https://img.shields.io/badge/Work%20GitHub-lovely--intern-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-My work profile contains professional projects, internship work, and other development contributions.
-
-</div>
+<br/>
 
 <br/>
 
@@ -31,6 +19,10 @@ My work profile contains professional projects, internship work, and other devel
 
 <a href="https://lovely-sharma.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lovely-intern">
+  <img src="https://img.shields.io/badge/Work%20GitHub-lovely--intern-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
