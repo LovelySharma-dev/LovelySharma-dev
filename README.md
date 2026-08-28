@@ -12,7 +12,7 @@
 
 <br/>
 
-
+<div align="center" >
 <a href="https://github.com/LovelySharma-dev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -111,17 +111,37 @@
 
 ## 💼 Experience
 
+**Full Stack MERN Intern — Waygood** · *17 Aug 2026 – Present*
+
+* Developing production web applications with **Next.js 14, React 18, TypeScript, and Material UI**
+* Building and integrating **Node.js + Express.js microservices** within a **PNPM Workspaces** monorepo
+* Implementing **RBAC, JWT authentication, refresh-token rotation, and OAuth** using Passport.js
+* Working with **MongoDB and Mongoose**, including pagination, validation, and **multi-tenant data isolation**
+* Using **Zustand** for global state management and asynchronous API synchronization
+* Working with **Redis** for caching and performance optimization
+* Managing file and media storage using **AWS SDK and Cloudinary**
+* Containerizing applications and development services using **Docker**
+
 
 **BharatCares Internship** · *Gen AI & Cloud Computing (with AICTE) · 22 Jun – 30 Jul 2026*
-- Industry-aligned program covering AI, Prompt Engineering, AI App Development, Cloud Architecture & Deployment
+
+* Industry-aligned program covering AI, Prompt Engineering, AI App Development, Cloud Architecture & Deployment
 
 **AI Strategy & Business Intelligence Intern** · *Virtual · Mar 2026 – Apr 2026*
-- Completed a 6-week internship in Generative AI, Agentic AI, automation & workflows
-- Hands-on with Python, Google Colab & Relay for building AI workflows and automations
 
-**Microsoft Learn Student Club — Web Developer, On Campus**
-- Organized & judged campus hackathons
-- Mentored juniors on development issues, conducted seminars
+* Completed a 6-week internship in Generative AI, Agentic AI, automation & workflows
+* Hands-on with Python, Google Colab & Relay for building AI workflows and automations
+
+**Microsoft Learn Student Club — Web Developer, On Campus** · *2025–2026*
+
+* Organized & judged campus hackathons
+* Mentored juniors on development issues and conducted seminars
+
+**Indian Society for Technical Education — Vice President** · *2024–2025*
+
+* Conducted technical webinars and development-focused sessions on campus
+* Coordinated student-focused technical activities and learning sessions
+
 
 <br/>
 
@@ -144,7 +164,7 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovelySharma-dev&layout=compact&theme=tokyonight&hide_border=true" width="45%"/> -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LovelySharma-dev&theme=tokyo-night&hide_border=true" width="90%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=LovelySharma-dev&theme=tokyo-night&hide_border=true" width="90%"/> -->
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=LovelySharma-dev&theme=tokyonight&no-frame=true&row=1&column=6"/> -->
 
