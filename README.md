@@ -145,6 +145,14 @@
 
 <br/>
 
+## 👨‍💻 Work
+
+I also contribute to projects through my professional GitHub account.
+
+👉 **[View my work GitHub profile]([https://github.com/YOUR-WORK-USERNAME](https://github.com/lovely-intern))**
+
+<br/>
+
 ## 🌱 Open Source
 
 - 🎉 **GSSoC'26 (GirlScript Summer of Code) Contributor**
