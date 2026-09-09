@@ -147,9 +147,9 @@
 
 ## 👨‍💻 Work
 
-I also contribute to projects through my professional GitHub account.
+💼I also contribute to projects through my professional GitHub account.
+👉 **[Lovely-sharma — Work GitHub](https://github.com/lovely-intern)**
 
-👉 **[View my work GitHub profile]([https://github.com/YOUR-WORK-USERNAME](https://github.com/lovely-intern))**
 
 <br/>
 
